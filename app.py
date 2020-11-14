@@ -4,3 +4,11 @@ def unit_convert(value, initial_unit, convert_to_unit):
     string = f"{result}{convert_to_unit}"
     print(string)
     return string
+
+while True:
+    try:
+        user_input = input("Enter the string to convert [x unit1 in unit2]:\n")
+        user_input = user_input.split()
+        outcome = unit_convert(int(user_input[0]), user_input[1], user_input[3])
+    except ValueError as e:
+        print(f"An error has occured: {e}")
