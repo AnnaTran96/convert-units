@@ -13,7 +13,7 @@ while True:
         user_input = user_input.split()
         outcome = unit_convert(int(user_input[0]), user_input[1], user_input[3])
     except ValueError as e:
-        print(f"ValueError: {e}")
+        print(f"ValueError: {e}\nFor example, type the following: 5 cm in m\n")
     except KeyError as e:
         print(f"KeyError: invalid key {e}.\nPlease enter correct unit [cm / m]\n")
     except KeyboardInterrupt as e:
