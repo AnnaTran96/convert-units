@@ -1,6 +1,6 @@
 # Units Converter
 
-This is a console application that converts measurement units.
+This is a console application that converts measurement units created using Python.
 
 ![Screenshot of Console App](https://i.ibb.co/Yhvk4cw/Screenshot-2020-11-14-at-19-23-27.png)
 
