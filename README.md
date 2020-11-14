@@ -13,7 +13,7 @@ This is a console application that converts measurement units created using Pyth
 
 ## Usage
 
-Convert ` x unit1 in unit2` e.g. `4 m in cm`
+- Convert ` x unit1 in unit2` e.g. `4 m in cm`
 
 ## Testing
 
