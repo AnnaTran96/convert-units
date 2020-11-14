@@ -12,3 +12,9 @@ while True:
         outcome = unit_convert(int(user_input[0]), user_input[1], user_input[3])
     except ValueError as e:
         print(f"An error has occured: {e}")
+    except KeyError as e:
+        print(f"An error has occured: {e}")
+    except KeyboardInterrupt as e:
+        print(f"An error has occured: {e}")
+    except IndexError as e:
+        print(f"An error has occured: {e}")
