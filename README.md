@@ -1,6 +1,6 @@
 # Units Converter
 
-This is a console application that converts measurement units.
+This is a console application that converts measurement units created using Python.
 
 ![Screenshot of Console App](https://i.ibb.co/Yhvk4cw/Screenshot-2020-11-14-at-19-23-27.png)
 
@@ -13,7 +13,7 @@ This is a console application that converts measurement units.
 
 ## Usage
 
-Convert ` x unit1 in unit2` e.g. `4 m in cm`
+- Convert ` x unit1 in unit2` e.g. `4 m in cm`
 
 ## Testing
 
