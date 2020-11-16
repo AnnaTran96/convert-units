@@ -5,10 +5,8 @@ This is a console application that converts measurement units created using Pyth
 ![Screenshot of Console App](https://i.ibb.co/Yhvk4cw/Screenshot-2020-11-14-at-19-23-27.png)
 
 ## Installation
-### Install pip package on your local machine
 
 - Fork and clone the repo
-- In your terminal, run `pip install units_converter`
 - Next, in your terminal run `python app.py`
 
 ## Usage
